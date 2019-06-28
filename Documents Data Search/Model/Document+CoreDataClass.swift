@@ -2,8 +2,8 @@
 //  Document+CoreDataClass.swift
 //  Documents Data Search
 //
-//  Created by Dayton on 3/8/19.
-//  Copyright © 2019 Dayton Steffeny. All rights reserved.
+//  Created by Rahil Patel on 6/27/19.
+//  Copyright © 2019 Rahil Patel. All rights reserved.
 //
 
 import UIKit
